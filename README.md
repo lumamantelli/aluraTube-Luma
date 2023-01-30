@@ -1,4 +1,5 @@
-## 📼 AluraTube
+![2023-01-30](https://user-images.githubusercontent.com/114085660/215580855-d8c5044f-537e-4af1-b1ce-a7eb20885128.png)
+
 
 Project developed during the event Imersão React 5 (11/07/2022 - 11/14/2022), from Alura. It's a video platform inspired by YouTube.
 
